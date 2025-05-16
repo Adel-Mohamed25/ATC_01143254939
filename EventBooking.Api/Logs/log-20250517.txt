@@ -1,0 +1,4 @@
+2025-05-17 00:46:39.135 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 02:09:12.348 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
