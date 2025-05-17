@@ -3,11 +3,9 @@ using EventBooking.Application.Extensions;
 using EventBooking.Domain.IRepositories;
 using EventBooking.Infrastructure.Extensions;
 using EventBooking.Infrastructure.Seeds;
-using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using Serilog;
-using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -46,23 +44,6 @@ builder.Services.AddCors(options =>
         builder.AllowAnyHeader();
     });
 });
-
-// add localization settings
-builder.Services.Configure<RequestLocalizationOptions>(options =>
-{
-    var supportedCultures = new[]
-    {
-        new CultureInfo("en-US"),
-        new CultureInfo("ar-EG")
-    };
-
-    options.DefaultRequestCulture = new RequestCulture(culture: "ar-EG", uiCulture: "ar-EG");
-    options.SupportedCultures = supportedCultures;
-    options.SupportedUICultures = supportedCultures;
-    options.ApplyCurrentCultureToResponseHeaders = true;
-});
-
-
 
 
 var app = builder.Build();
