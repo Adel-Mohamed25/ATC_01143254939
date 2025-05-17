@@ -35,9 +35,72 @@ This project was developed as part of the Event Booking System Challenge — Are
 
 ---
 
+## 📄 API Endpoints
+
+### 🔐 Account APIs
+
+| Method | Endpoint                            | Access   | Description                  |
+|--------|-------------------------------------|----------|------------------------------|
+| POST   | /api/v1/Account/Register            | Public   | Register new user/admin      |
+| POST   | /api/v1/Account/Login               | Public   | Login and get JWT            |
+| POST   | /api/v1/Account/RefreshToken        | Public   | Refresh JWT token            |
+| POST   | /api/v1/Account/ResetPassword       | Public   | Send password reset email    |
+| GET    | /api/v1/Account/ConfirmEmail        | Public   | Confirm user email           |
+
+### 📅 Event APIs
+
+| Method | Endpoint                            | Access        | Description             |
+|--------|-------------------------------------|----------------|-------------------------|
+| POST   | /api/v1/Event/CreateEvent           | Admin         | Create new event        |
+| PUT    | /api/v1/Event/UpdateEvent           | Admin         | Update event            |
+| DELETE | /api/v1/Event/DeleteEvent?id=       | Admin         | Delete event by ID      |
+| GET    | /api/v1/Event/GetAllEvents          | Admin, User   | Get all events          |
+| GET    | /api/v1/Event/GetPaginatedEvents    | Admin, User   | Get paginated events    |
+| GET    | /api/v1/Event/GetEventById?id=      | Admin, User   | Get event by ID         |
+
+### 📥 Booking APIs
+
+| Method | Endpoint                                  | Access       | Description                    |
+|--------|-------------------------------------------|--------------|--------------------------------|
+| POST   | /api/v1/Booking/CreateBooking             | User, Admin  | Book a new event               |
+| PUT    | /api/v1/Booking/UpdateBooking             | Admin        | Update a booking               |
+| DELETE | /api/v1/Booking/DeleteBooking?id=         | Admin        | Delete a booking by ID         |
+| GET    | /api/v1/Booking/GetAllBookings            | Admin        | Get all bookings               |
+| GET    | /api/v1/Booking/GetPaginatedBookings      | Admin        | Get paginated bookings         |
+| GET    | /api/v1/Booking/GetBookingById?id=        | Admin        | Get booking by ID              |
+| GET    | /api/v1/Booking/GetAllBookingByUserId     | User         | Get all bookings by user ID    |
+
+### 📧 Email API
+
+| Method | Endpoint                        | Access   | Description         |
+|--------|----------------------------------|----------|---------------------|
+| POST   | /api/v1/Email/SendEmail         | Public   | Send custom email   |
+
+---
+
 ## 🧪 How to Run Locally
 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/EventBooking.Backend.git
+git clone https://github.com/Adel-Mohamed25/ATC_01143254939.git
+
+
+## 🧩 Project Structure
+
+```bash
+EventBooking
+│
+├── API               # Entry point
+├── Application       # DTOs, Validators, CQRS Handlers
+├── Domain            # Entities and Interfaces
+├── Infrastructure    # JWT Auth, Services
+└── Persistence       # DbContext, EF Repositories
+
+## ✍️ Author
+
+- 👨‍💻 Developed by: **Adel Mohamed**
+- 📧 Email: adelmohammedfayed@gmail.com
+
+
+
