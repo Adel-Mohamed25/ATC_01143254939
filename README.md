@@ -86,6 +86,8 @@ This project was developed as part of the Event Booking System Challenge — Are
 git clone https://github.com/Adel-Mohamed25/ATC_01143254939.git
 
 
+---
+
 ## 🧩 Project Structure
 
 ```bash
@@ -96,6 +98,9 @@ EventBooking
 ├── Domain            # Entities and Interfaces
 ├── Infrastructure    # JWT Auth, Services
 └── Persistence       # DbContext, EF Repositories
+```
+
+---
 
 ## ✍️ Author
 
