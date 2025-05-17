@@ -3,16 +3,376 @@
   "WorkspaceRootPath": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|solutionrelative:eventbooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|solutionrelative:eventbooking.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\dtos\\booking\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\dtos\\booking\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.api\\controllers\\v1\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|solutionrelative:eventbooking.api\\controllers\\v1\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.api\\controllers\\v1\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|solutionrelative:eventbooking.api\\controllers\\v1\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.api\\controllers\\v1\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|solutionrelative:eventbooking.api\\controllers\\v1\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\commands\\updatebooking\\updatebookingcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\commands\\updatebooking\\updatebookingcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\commands\\createbooking\\createbookingcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\commands\\createbooking\\createbookingcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\commands\\createevent\\createeventcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\commands\\createevent\\createeventcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\commands\\updateevent\\updateeventcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\commands\\updateevent\\updateeventcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\commands\\deleteevent\\deleteeventcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\commands\\deleteevent\\deleteeventcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\commands\\updatebooking\\updatebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\commands\\updatebooking\\updatebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\commands\\createevent\\createeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\commands\\createevent\\createeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\dtos\\event\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\dtos\\event\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\dtos\\event\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\dtos\\event\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\dtos\\event\\updateeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\dtos\\event\\updateeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.infrastructure\\services\\implementation\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|solutionrelative:eventbooking.infrastructure\\services\\implementation\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.infrastructure\\services\\abstractions\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|solutionrelative:eventbooking.infrastructure\\services\\abstractions\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\register\\registercommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\register\\registercommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\queries\\getpaginatedevents\\getpaginatedeventsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\queries\\getpaginatedevents\\getpaginatedeventsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\queries\\geteventbyid\\geteventbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\queries\\geteventbyid\\geteventbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\queries\\getallevents\\getalleventsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\queries\\getallevents\\getalleventsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\commands\\updateevent\\updateeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\commands\\updateevent\\updateeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\commands\\deleteevent\\deleteeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\commands\\deleteevent\\deleteeventcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\commands\\deletebooking\\deletebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\commands\\deletebooking\\deletebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\commands\\createbooking\\createbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\commands\\createbooking\\createbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\queries\\getpaginatedbookings\\getpaginatedbookingsqueryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\queries\\getpaginatedbookings\\getpaginatedbookingsqueryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\queries\\getbookingbyid\\getbookingbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\queries\\getbookingbyid\\getbookingbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\queries\\getpaginatedbookings\\getpaginatedbookingsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\queries\\getpaginatedbookings\\getpaginatedbookingsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\queries\\getbookingbyid\\getbookingbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\queries\\getbookingbyid\\getbookingbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\queries\\getallbookingbyuserid\\getallbookingbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\queries\\getallbookingbyuserid\\getallbookingbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\queries\\getallbookings\\getallbookingsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\queries\\getallbookings\\getallbookingsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\queries\\getallbookingbyuserid\\getallbookingbyuseridqueryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\queries\\getallbookingbyuserid\\getallbookingbyuseridqueryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\queries\\getbookingbyid\\getbookingbyidqueryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\queries\\getbookingbyid\\getbookingbyidqueryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\queries\\getallbookingbyuserid\\getallbookingbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\queries\\getallbookingbyuserid\\getallbookingbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774D72E1-7E71-41C1-9461-B424473179E0}|EventBooking.Domain\\EventBooking.Domain.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774D72E1-7E71-41C1-9461-B424473179E0}|EventBooking.Domain\\EventBooking.Domain.csproj|solutionrelative:eventbooking.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.infrastructure\\seeds\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|solutionrelative:eventbooking.infrastructure\\seeds\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.infrastructure\\seeds\\usersseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|solutionrelative:eventbooking.infrastructure\\seeds\\usersseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.infrastructure\\seeds\\rolesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|solutionrelative:eventbooking.infrastructure\\seeds\\rolesseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\queries\\getpaginatedevents\\getpaginatedeventsqueryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\queries\\getpaginatedevents\\getpaginatedeventsqueryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\queries\\getpaginatedbookings\\getpaginatedbookingsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\queries\\getpaginatedbookings\\getpaginatedbookingsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\queries\\geteventbyid\\geteventbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\queries\\geteventbyid\\geteventbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\queries\\getpaginatedevents\\getpaginatedeventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\queries\\getpaginatedevents\\getpaginatedeventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\queries\\getallbookings\\getallbookingsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\queries\\getallbookings\\getallbookingsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\commands\\deletebooking\\deletebookingcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\commands\\deletebooking\\deletebookingcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\commands\\deleteevent\\deleteeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\commands\\deleteevent\\deleteeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\commands\\deletebooking\\deletebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\commands\\deletebooking\\deletebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\commands\\updatebooking\\updatebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\commands\\updatebooking\\updatebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\mapping\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\mapping\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\dtos\\booking\\updatebookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\dtos\\booking\\updatebookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\bookings\\commands\\createbooking\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\bookings\\commands\\createbooking\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\queries\\geteventbyid\\geteventbyidqueryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\queries\\geteventbyid\\geteventbyidqueryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\queries\\getallevents\\getalleventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\queries\\getallevents\\getalleventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\mapping\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\mapping\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\dtos\\pagination\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\dtos\\pagination\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\confirmemail\\confirmemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\confirmemail\\confirmemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\helper\\confirmemailmessage\\confirmemailformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\helper\\confirmemailmessage\\confirmemailformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\commands\\updateevent\\updateeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\commands\\updateevent\\updateeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\events\\commands\\createevent\\createeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\events\\commands\\createevent\\createeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|solutionrelative:eventbooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774D72E1-7E71-41C1-9461-B424473179E0}|EventBooking.Domain\\EventBooking.Domain.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774D72E1-7E71-41C1-9461-B424473179E0}|EventBooking.Domain\\EventBooking.Domain.csproj|solutionrelative:eventbooking.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.api\\controllers\\v1\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|solutionrelative:eventbooking.api\\controllers\\v1\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\mapping\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\mapping\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774D72E1-7E71-41C1-9461-B424473179E0}|EventBooking.Domain\\EventBooking.Domain.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774D72E1-7E71-41C1-9461-B424473179E0}|EventBooking.Domain\\EventBooking.Domain.csproj|solutionrelative:eventbooking.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774D72E1-7E71-41C1-9461-B424473179E0}|EventBooking.Domain\\EventBooking.Domain.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.domain\\commons\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774D72E1-7E71-41C1-9461-B424473179E0}|EventBooking.Domain\\EventBooking.Domain.csproj|solutionrelative:eventbooking.domain\\commons\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\resetpassword\\resetpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\resetpassword\\resetpasswordcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\resetpassword\\resetpasswordcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\resetpassword\\resetpasswordcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\resetpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\resetpassword\\resetpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\dtos\\account\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\dtos\\account\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\refreshtoken\\refreshtokencommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\refreshtoken\\refreshtokencommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\refreshtoken\\refreshtokencommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\refreshtoken\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\refreshtoken\\refreshtokencommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\dtos\\account\\refreshjwtrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\dtos\\account\\refreshjwtrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.infrastructure\\models\\authentication\\jwtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|solutionrelative:eventbooking.infrastructure\\models\\authentication\\jwtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.infrastructure\\models\\authentication\\refreshjwtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|solutionrelative:eventbooking.infrastructure\\models\\authentication\\refreshjwtmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\login\\logincommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\login\\logincommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.api\\controllers\\common\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|solutionrelative:eventbooking.api\\controllers\\common\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.api\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1366916D-229C-4A01-B17D-419CBCE7A777}|EventBooking.Api\\EventBooking.Api.csproj|solutionrelative:eventbooking.api\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.infrastructure\\services\\implementation\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|solutionrelative:eventbooking.infrastructure\\services\\implementation\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\email\\commands\\sendemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\email\\commands\\sendemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\email\\commands\\sendemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\email\\commands\\sendemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\confirmemail\\confirmemailcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\confirmemail\\confirmemailcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\confirmemail\\confirmemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\confirmemail\\confirmemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\account\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\account\\commands\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.application\\features\\v1\\email\\commands\\sendemailcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936D61-2B72-4B02-912F-E0DD60A67011}|EventBooking.Application\\EventBooking.Application.csproj|solutionrelative:eventbooking.application\\features\\v1\\email\\commands\\sendemailcommandvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.infrastructure\\models\\email\\sendemailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|solutionrelative:eventbooking.infrastructure\\models\\email\\sendemailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|f:\\documents.f\\my work\\eventbooking\\atc_01143254939\\eventbooking.infrastructure\\models\\email\\sendemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5571CA42-D936-41EF-ACDE-008BA48767AE}|EventBooking.Infrastructure\\EventBooking.Infrastructure.csproj|solutionrelative:eventbooking.infrastructure\\models\\email\\sendemailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +382,1209 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "EventBooking.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "EventBooking.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAQwCEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T23:07:48.653Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "EventBooking.Application\\Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "EventBooking.Application\\Extensions\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Controllers\\V1\\BookingController.cs",
+              "RelativeDocumentMoniker": "EventBooking.Api\\Controllers\\V1\\BookingController.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Controllers\\V1\\BookingController.cs",
+              "RelativeToolTip": "EventBooking.Api\\Controllers\\V1\\BookingController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T23:08:35.038Z",
+              "WhenOpened": "2025-05-17T12:16:06.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Controllers\\V1\\EmailController.cs",
+              "RelativeDocumentMoniker": "EventBooking.Api\\Controllers\\V1\\EmailController.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Controllers\\V1\\EmailController.cs",
+              "RelativeToolTip": "EventBooking.Api\\Controllers\\V1\\EmailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:18:52.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Controllers\\V1\\EventController.cs",
+              "RelativeDocumentMoniker": "EventBooking.Api\\Controllers\\V1\\EventController.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Controllers\\V1\\EventController.cs",
+              "RelativeToolTip": "EventBooking.Api\\Controllers\\V1\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:15:43.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Booking\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\DTOs\\Booking\\BookingDTO.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Booking\\BookingDTO.cs",
+              "RelativeToolTip": "EventBooking.Application\\DTOs\\Booking\\BookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:26:57.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CreateBookingDTO.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "RelativeToolTip": "EventBooking.Application\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:27:17.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "EventBooking.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "EventBooking.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T23:07:48.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "EventBooking.Api\\appsettings.json",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\appsettings.json",
+              "RelativeToolTip": "EventBooking.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T10:48:02.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateBookingCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommandValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:33:37.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateBookingCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandValidation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:32:16.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateEventCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommandValidation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:18:41.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateEventCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommandValidation.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:20:00.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteEventCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommandValidation.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:19:25.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateBookingCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:33:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateEventCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommandHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:18:30.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateEventDTO.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Event\\CreateEventDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\DTOs\\Event\\CreateEventDTO.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Event\\CreateEventDTO.cs",
+              "RelativeToolTip": "EventBooking.Application\\DTOs\\Event\\CreateEventDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:23:17.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Event\\EventDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\DTOs\\Event\\EventDTO.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Event\\EventDTO.cs",
+              "RelativeToolTip": "EventBooking.Application\\DTOs\\Event\\EventDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:23:35.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateEventDTO.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Event\\UpdateEventDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\DTOs\\Event\\UpdateEventDTO.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Event\\UpdateEventDTO.cs",
+              "RelativeToolTip": "EventBooking.Application\\DTOs\\Event\\UpdateEventDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:23:42.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "AuthServices.cs",
               "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Services\\implementation\\AuthServices.cs",
               "RelativeDocumentMoniker": "EventBooking.Infrastructure\\Services\\implementation\\AuthServices.cs",
               "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Services\\implementation\\AuthServices.cs",
               "RelativeToolTip": "EventBooking.Infrastructure\\Services\\implementation\\AuthServices.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAmwJsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkBAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T23:06:31.965Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Services\\Abstractions\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "EventBooking.Infrastructure\\Services\\Abstractions\\IAuthServices.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Services\\Abstractions\\IAuthServices.cs",
+              "RelativeToolTip": "EventBooking.Infrastructure\\Services\\Abstractions\\IAuthServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:22:17.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommandValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:08:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetPaginatedEventsQueryHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQueryHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQueryHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQueryHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:22:08.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetEventByIdQueryHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQueryHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQueryHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQueryHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:21:29.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetAllEventsQueryHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetAllEvents\\GetAllEventsQueryHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetAllEvents\\GetAllEventsQueryHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetAllEvents\\GetAllEventsQueryHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetAllEvents\\GetAllEventsQueryHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:21:00.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateEventCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommandHandler.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:19:50.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteEventCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:19:16.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteBookingCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:32:47.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateBookingCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:32:04.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetPaginatedBookingsQueryValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQueryValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQueryValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQueryValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQueryValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:35:22.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetBookingByIdQuery.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQuery.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQuery.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQuery.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:34:26.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetPaginatedBookingsQueryHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQueryHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQueryHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQueryHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQueryHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wB0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:35:14.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetBookingByIdQueryHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQueryHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQueryHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQueryHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:34:36.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetAllBookingByUserIdQueryHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQueryHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQueryHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQueryHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:17:25.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetAllBookingsQueryHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookings\\GetAllBookingsQueryHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookings\\GetAllBookingsQueryHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookings\\GetAllBookingsQueryHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookings\\GetAllBookingsQueryHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:34:08.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetAllBookingByUserIdQueryValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQueryValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQueryValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQueryValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQueryValidation.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:17:36.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetBookingByIdQueryValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQueryValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQueryValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQueryValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetBookingById\\GetBookingByIdQueryValidation.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:34:46.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetAllBookingByUserIdQuery.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQuery.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQuery.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQuery.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookingByUserId\\GetAllBookingByUserIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:17:11.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "EventBooking.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "EventBooking.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:33:30.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RolesSeeder.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Seeds\\RolesSeeder.cs",
+              "RelativeDocumentMoniker": "EventBooking.Infrastructure\\Seeds\\RolesSeeder.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Seeds\\RolesSeeder.cs",
+              "RelativeToolTip": "EventBooking.Infrastructure\\Seeds\\RolesSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:05:21.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UsersSeeder.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Seeds\\UsersSeeder.cs",
+              "RelativeDocumentMoniker": "EventBooking.Infrastructure\\Seeds\\UsersSeeder.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Seeds\\UsersSeeder.cs",
+              "RelativeToolTip": "EventBooking.Infrastructure\\Seeds\\UsersSeeder.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwDAAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:05:39.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Seeds\\Permissions.cs",
+              "RelativeDocumentMoniker": "EventBooking.Infrastructure\\Seeds\\Permissions.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Seeds\\Permissions.cs",
+              "RelativeToolTip": "EventBooking.Infrastructure\\Seeds\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:06:27.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:08:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetPaginatedEventsQueryValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQueryValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQueryValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQueryValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQueryValidation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:22:17.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetPaginatedBookingsQuery.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQuery.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQuery.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQuery.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetPaginatedBookings\\GetPaginatedBookingsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:35:06.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetEventByIdQuery.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQuery.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQuery.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQuery.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:21:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetPaginatedEventsQuery.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQuery.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQuery.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQuery.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetPaginatedEvents\\GetPaginatedEventsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:21:59.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetAllBookingsQuery.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookings\\GetAllBookingsQuery.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookings\\GetAllBookingsQuery.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookings\\GetAllBookingsQuery.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Queries\\GetAllBookings\\GetAllBookingsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:33:59.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DeleteBookingCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommandValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:32:58.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DeleteEventCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Commands\\DeleteEvent\\DeleteEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:19:07.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DeleteBookingCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\DeleteBooking\\DeleteBookingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:32:39.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateBookingCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\UpdateBooking\\UpdateBookingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:33:18.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Bookings.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Mapping\\Bookings.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Mapping\\Bookings.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Mapping\\Bookings.cs",
+              "RelativeToolTip": "EventBooking.Application\\Mapping\\Bookings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:36:28.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdateBookingDTO.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Booking\\UpdateBookingDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\DTOs\\Booking\\UpdateBookingDTO.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Booking\\UpdateBookingDTO.cs",
+              "RelativeToolTip": "EventBooking.Application\\DTOs\\Booking\\UpdateBookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:27:30.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateBookingCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:31:48.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GetEventByIdQueryValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQueryValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQueryValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQueryValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetEventById\\GetEventByIdQueryValidation.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:21:41.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GetAllEventsQuery.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetAllEvents\\GetAllEventsQuery.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetAllEvents\\GetAllEventsQuery.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Queries\\GetAllEvents\\GetAllEventsQuery.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Queries\\GetAllEvents\\GetAllEventsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:20:50.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Events.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Mapping\\Events.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Mapping\\Events.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Mapping\\Events.cs",
+              "RelativeToolTip": "EventBooking.Application\\Mapping\\Events.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:36:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PaginationDTO.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Pagination\\PaginationDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\DTOs\\Pagination\\PaginationDTO.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Pagination\\PaginationDTO.cs",
+              "RelativeToolTip": "EventBooking.Application\\DTOs\\Pagination\\PaginationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:07:46.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ConfirmEmailCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:44:12.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ConfirmEmailFormat.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Helper\\ConfirmEmailMessage\\ConfirmEmailFormat.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Helper\\ConfirmEmailMessage\\ConfirmEmailFormat.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Helper\\ConfirmEmailMessage\\ConfirmEmailFormat.cs",
+              "RelativeToolTip": "EventBooking.Application\\Helper\\ConfirmEmailMessage\\ConfirmEmailFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:50:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UpdateEventCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Commands\\UpdateEvent\\UpdateEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:19:42.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CreateEventCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Events\\Commands\\CreateEvent\\CreateEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:18:20.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Program.cs",
+              "RelativeDocumentMoniker": "EventBooking.Api\\Program.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Program.cs",
+              "RelativeToolTip": "EventBooking.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:50:38.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Account\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\DTOs\\Account\\LoginDTO.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Account\\LoginDTO.cs",
+              "RelativeToolTip": "EventBooking.Application\\DTOs\\Account\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:49:04.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Account\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\DTOs\\Account\\RegisterDTO.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Account\\RegisterDTO.cs",
+              "RelativeToolTip": "EventBooking.Application\\DTOs\\Account\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:09:58.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Mapping\\Account.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Mapping\\Account.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Mapping\\Account.cs",
+              "RelativeToolTip": "EventBooking.Application\\Mapping\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:10:29.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Controllers\\V1\\AccountController.cs",
+              "RelativeDocumentMoniker": "EventBooking.Api\\Controllers\\V1\\AccountController.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Controllers\\V1\\AccountController.cs",
+              "RelativeToolTip": "EventBooking.Api\\Controllers\\V1\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:59:53.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Event.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Domain\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "EventBooking.Domain\\Entities\\Event.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Domain\\Entities\\Event.cs",
+              "RelativeToolTip": "EventBooking.Domain\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:24:19.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Domain\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "EventBooking.Domain\\Entities\\Booking.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Domain\\Entities\\Booking.cs",
+              "RelativeToolTip": "EventBooking.Domain\\Entities\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:28:12.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Domain\\Commons\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EventBooking.Domain\\Commons\\BaseEntity.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Domain\\Commons\\BaseEntity.cs",
+              "RelativeToolTip": "EventBooking.Domain\\Commons\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:24:34.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ResetPasswordCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommandValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:07:28.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ResetPasswordCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:07:18.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ResetPasswordCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ResetPassword\\ResetPasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:07:06.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Account\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\DTOs\\Account\\ResetPasswordDTO.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Account\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "EventBooking.Application\\DTOs\\Account\\ResetPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:05:49.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "RefreshJwtRequestDTO.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Account\\RefreshJwtRequestDTO.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\DTOs\\Account\\RefreshJwtRequestDTO.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\DTOs\\Account\\RefreshJwtRequestDTO.cs",
+              "RelativeToolTip": "EventBooking.Application\\DTOs\\Account\\RefreshJwtRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:58:29.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "JWTModel.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Models\\Authentication\\JWTModel.cs",
+              "RelativeDocumentMoniker": "EventBooking.Infrastructure\\Models\\Authentication\\JWTModel.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Models\\Authentication\\JWTModel.cs",
+              "RelativeToolTip": "EventBooking.Infrastructure\\Models\\Authentication\\JWTModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:58:11.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "RefreshTokenCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommandValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:57:05.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "RefreshTokenCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommandHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:56:56.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RefreshTokenCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\RefreshToken\\RefreshTokenCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:56:44.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "RefreshJWTModel.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Models\\Authentication\\RefreshJWTModel.cs",
+              "RelativeDocumentMoniker": "EventBooking.Infrastructure\\Models\\Authentication\\RefreshJWTModel.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Models\\Authentication\\RefreshJWTModel.cs",
+              "RelativeToolTip": "EventBooking.Infrastructure\\Models\\Authentication\\RefreshJWTModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:57:30.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "LoginCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommandValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:48:40.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:48:29.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Login\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:48:07.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Controllers\\Common\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "EventBooking.Api\\Controllers\\Common\\BaseApiController.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Controllers\\Common\\BaseApiController.cs",
+              "RelativeToolTip": "EventBooking.Api\\Controllers\\Common\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:49:43.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "EventBooking.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "EventBooking.Api\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:52:08.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "EventBooking.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T23:08:35.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "SendEmailCommandHandler.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommandHandler.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommandHandler.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommandHandler.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:17:46.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "SendEmailCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:17:27.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ConfirmEmailCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommandValidation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:44:21.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ConfirmEmailCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\ConfirmEmail\\ConfirmEmailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:43:59.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommand.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Account\\Commands\\Register\\RegisterCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:07:52.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "SendEmailCommandValidation.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommandValidation.cs",
+              "RelativeDocumentMoniker": "EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommandValidation.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommandValidation.cs",
+              "RelativeToolTip": "EventBooking.Application\\Features\\V1\\Email\\Commands\\SendEmailCommandValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:17:56.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "SendEmailResponse.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Models\\Email\\SendEmailResponse.cs",
+              "RelativeDocumentMoniker": "EventBooking.Infrastructure\\Models\\Email\\SendEmailResponse.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Models\\Email\\SendEmailResponse.cs",
+              "RelativeToolTip": "EventBooking.Infrastructure\\Models\\Email\\SendEmailResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:16:20.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "SendEmailRequest.cs",
+              "DocumentMoniker": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Models\\Email\\SendEmailRequest.cs",
+              "RelativeDocumentMoniker": "EventBooking.Infrastructure\\Models\\Email\\SendEmailRequest.cs",
+              "ToolTip": "F:\\Documents.F\\My Work\\EventBooking\\ATC_01143254939\\EventBooking.Infrastructure\\Models\\Email\\SendEmailRequest.cs",
+              "RelativeToolTip": "EventBooking.Infrastructure\\Models\\Email\\SendEmailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:16:17.578Z"
             }
           ]
         }

@@ -3,6 +3,8 @@ using EventBooking.Domain.IRepositories;
 using EventBooking.Domain.IRepositories.IdentityRepositories;
 using EventBooking.Infrastructure.Repositories;
 using EventBooking.Infrastructure.Repositories.IdentityRepositories;
+using EventBooking.Infrastructure.Services.Abstractions;
+using EventBooking.Infrastructure.Services.implementation;
 using EventBooking.Infrastructure.Settings;
 using EventBooking.Persistence.Context;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -114,6 +116,7 @@ namespace EventBooking.Infrastructure.Extensions
             #endregion
 
 
+
             #region DI Settings
             services.AddScoped<IEventBookingDbContext, EventBookingDbContext>();
             services.AddScoped<IUserRepository, UserRepository>();
@@ -125,6 +128,9 @@ namespace EventBooking.Infrastructure.Extensions
             services.AddScoped<SignInManager<User>>();
             services.AddScoped<RoleManager<Role>>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IAuthServices, AuthServices>();
+            services.AddScoped<IFileServices, FileServices>();
+            services.AddScoped<IEmailServices, EmailServices>();
             services.AddHttpContextAccessor();
             #endregion
 

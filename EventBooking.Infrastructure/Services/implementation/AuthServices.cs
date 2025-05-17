@@ -4,7 +4,6 @@ using EventBooking.Infrastructure.Models.Authentication;
 using EventBooking.Infrastructure.Models.Email;
 using EventBooking.Infrastructure.Services.Abstractions;
 using EventBooking.Infrastructure.Settings;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -285,31 +284,6 @@ namespace EventBooking.Infrastructure.Services.implementation
                     RefreshJWTExpireDate = newUserJWT.RefreshJWTExpireDate
                 }
             };
-        }
-
-
-        /// <summary>
-        /// Generates a two-factor authentication (2FA) verification code to be sent via email.
-        /// </summary>
-        /// <param name="user">The user object.</param>
-        /// <returns>The verification code as a string.</returns>
-        public async Task<string> GenerateVerificationCodeAsync(User user)
-        {
-            var code = await _unitOfWork.Users.UserManager.GenerateTwoFactorTokenAsync(user, TokenOptions.DefaultEmailProvider);
-            return code;
-        }
-
-
-        /// <summary>
-        /// Verifies whether the entered two-factor authentication (2FA) code is valid.
-        /// </summary>
-        /// <param name="user">The user object.</param>
-        /// <param name="code">The verification code to be checked.</param>
-        /// <returns>True if the code is valid; otherwise, False.</returns>
-        public async Task<bool> VerifyCodeAsync(User user, string code)
-        {
-            var isValid = await _unitOfWork.Users.UserManager.VerifyTwoFactorTokenAsync(user, TokenOptions.DefaultEmailProvider, code);
-            return isValid;
         }
 
 

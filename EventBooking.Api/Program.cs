@@ -1,6 +1,8 @@
 using EventBooking.Api.Middlewares;
 using EventBooking.Application.Extensions;
+using EventBooking.Domain.IRepositories;
 using EventBooking.Infrastructure.Extensions;
+using EventBooking.Infrastructure.Seeds;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
@@ -16,7 +18,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// add Serilog
 Log.Logger = new LoggerConfiguration()
     .ReadFrom.Configuration(builder.Configuration)
     .CreateLogger();
@@ -24,7 +25,7 @@ Log.Logger = new LoggerConfiguration()
 builder.Logging.AddSerilog(Log.Logger);
 
 builder.Services.AddInfrastructureDependencies(builder.Configuration)
-    .AddApplicationDependencies();
+                .AddApplicationDependencies();
 
 
 // Enable multi-version support
@@ -62,6 +63,8 @@ builder.Services.Configure<RequestLocalizationOptions>(options =>
 });
 
 
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -73,6 +76,29 @@ if (app.Environment.IsDevelopment())
 
 app.UseCors("AllowSpecificOrigins");
 
+
+//Data Seeder 
+await using (var scop = app.Services.CreateAsyncScope())
+{
+    var services = scop.ServiceProvider;
+    var loggerFactory = services.GetRequiredService<ILoggerFactory>();
+    var logger = loggerFactory.CreateLogger("app");
+    try
+    {
+        var unitOfWork = services.GetRequiredService<IUnitOfWork>();
+        await RolesSeeder.SeedAsync(unitOfWork);
+        await UsersSeeder.SeedSuperAdminUserAsync(unitOfWork);
+        await UsersSeeder.SeedAdminUserAsync(unitOfWork);
+
+    }
+    catch (Exception ex)
+    {
+        logger.LogWarning(ex, "An error occurred seeding the DB");
+    }
+}
+
+
+
 app.UseMiddleware<ErrorHandlingMiddleware>();
 
 app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value);
@@ -81,6 +107,8 @@ app.UseRequestLocalization(app.Services.GetRequiredService<IOptions<RequestLocal
 app.UseStaticFiles();
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

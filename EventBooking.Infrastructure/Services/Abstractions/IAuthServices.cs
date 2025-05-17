@@ -15,9 +15,6 @@ namespace EventBooking.Infrastructure.Services.Abstractions
 
         Task<AuthModel> GetRefreshTokenAsync(User user);
 
-        Task<string> GenerateVerificationCodeAsync(User user);
-
-        Task<bool> VerifyCodeAsync(User user, string code);
 
         Task<EmailConfirmationResponse> ConfirmEmailAsync(EmailConfirmationRequest emailRequest);
     }

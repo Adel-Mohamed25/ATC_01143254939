@@ -5003,6 +5003,7 @@
       "EventBooking.Application >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Versioning >= 5.1.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.16",
+      "Serilog >= 4.2.0",
       "Serilog.AspNetCore >= 9.0.0",
       "Serilog.Settings.Configuration >= 9.0.0",
       "Serilog.Sinks.File >= 7.0.0",
@@ -5073,6 +5074,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[8.0.16, )"
+          },
+          "Serilog": {
+            "target": "Package",
+            "version": "[4.2.0, )"
           },
           "Serilog.AspNetCore": {
             "target": "Package",

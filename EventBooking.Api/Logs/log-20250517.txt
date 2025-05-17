@@ -1,4 +1,78 @@
-2025-05-17 00:46:39.135 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\EventBooking.Api\wwwroot. Static files may be unavailable.
+2025-05-17 13:58:36.658 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
 
-2025-05-17 02:09:12.348 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+2025-05-17 14:17:59.964 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 14:19:58.664 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 14:23:43.427 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 14:27:41.289 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 14:41:47.261 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 14:43:57.210 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 14:44:34.980 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 14:45:23.384 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 14:45:49.288 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 15:59:15.081 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 16:03:40.619 +03:00 [ERR] Error occured during user register
+System.InvalidOperationException: Role GUEST does not exist.
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.UserStore`9.AddToRoleAsync(TUser user, String normalizedRoleName, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.UserManager`1.AddToRoleAsync(TUser user, String role)
+   at EventBooking.Application.Features.V1.Account.Commands.Register.RegisterCommandHandler.Handle(RegisterCommand request, CancellationToken cancellationToken) in F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Application\Features\V1\Account\Commands\Register\RegisterCommandHandler.cs:line 47
+
+2025-05-17 16:13:18.450 +03:00 [WRN] The WebRootPath was not found: F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\wwwroot. Static files may be unavailable.
+
+2025-05-17 16:13:36.642 +03:00 [ERR] An unexpected error occurred while processing the request.Path: /api/V1/Account/Register, Method: POST, QueryString: 
+FluentValidation.ValidationException: Email already exists.
+   at EventBooking.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Application\Behaviors\ValidationBehavior.cs:line 26
+   at EventBooking.Api.Controllers.V1.AccountController.Register(RegisterDTO registerDTO) in F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\Controllers\V1\AccountController.cs:line 21
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at EventBooking.Api.Middlewares.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\Middlewares\ErrorHandlingMiddleware.cs:line 23
+
+2025-05-17 16:16:48.441 +03:00 [WRN] IPv4 Address Not Found.
+
+2025-05-17 16:16:48.443 +03:00 [INF] Host Name: DESKTOP-L558MLK
+
+2025-05-17 18:48:02.183 +03:00 [WRN] IPv4 Address Not Found.
+
+2025-05-17 18:48:02.204 +03:00 [INF] Host Name: DESKTOP-L558MLK
+
+2025-05-17 18:49:59.852 +03:00 [WRN] IPv4 Address Not Found.
+
+2025-05-17 18:49:59.852 +03:00 [INF] Host Name: DESKTOP-L558MLK
+
+2025-05-17 18:57:59.793 +03:00 [ERR] An unexpected error occurred while processing the request.Path: /api/V1/Booking/CreateBooking, Method: POST, QueryString: 
+FluentValidation.ValidationException: This user has already booked this event.
+   at EventBooking.Application.Behaviors.ValidationBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken) in F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Application\Behaviors\ValidationBehavior.cs:line 26
+   at EventBooking.Api.Controllers.V1.BookingController.CreateBooking(CreateBookingDTO createBooking) in F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\Controllers\V1\BookingController.cs:line 25
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at EventBooking.Api.Middlewares.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Api\Middlewares\ErrorHandlingMiddleware.cs:line 23
 

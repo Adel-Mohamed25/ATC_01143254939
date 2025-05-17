@@ -3,12 +3,6 @@ F:\Documents.F\My Work\EventBooking\EventBooking.Infrastructure\obj\Debug\net8.0
 F:\Documents.F\My Work\EventBooking\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.AssemblyInfoInputs.cache
 F:\Documents.F\My Work\EventBooking\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.AssemblyInfo.cs
 F:\Documents.F\My Work\EventBooking\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.csproj.CoreCompileInputs.cache
-F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.csproj.AssemblyReference.cache
-F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.AssemblyInfoInputs.cache
-F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.AssemblyInfo.cs
-F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.csproj.CoreCompileInputs.cache
-F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.sourcelink.json
 F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\bin\Debug\net8.0\EventBooking.Infrastructure.deps.json
 F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\bin\Debug\net8.0\EventBooking.Infrastructure.dll
 F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\bin\Debug\net8.0\EventBooking.Infrastructure.pdb
@@ -16,6 +10,12 @@ F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\
 F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\bin\Debug\net8.0\EventBooking.Persistence.dll
 F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\bin\Debug\net8.0\EventBooking.Persistence.pdb
 F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\bin\Debug\net8.0\EventBooking.Domain.pdb
+F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.csproj.AssemblyReference.cache
+F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.AssemblyInfoInputs.cache
+F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.AssemblyInfo.cs
+F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.sourcelink.json
 F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBoo.F7470858.Up2Date
 F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\EventBooking.Infrastructure.dll
 F:\Documents.F\My Work\EventBooking\ATC_01143254939\EventBooking.Infrastructure\obj\Debug\net8.0\refint\EventBooking.Infrastructure.dll
